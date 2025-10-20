@@ -1,3 +1,6 @@
 # test_homework
 
 dynamics.cpp和dynamics.h为与动力学、卡尔曼滤波相关的函数，
+expend_kalman_filter_node.cpp中写了函数的调用以及UR机械臂的数据的调用方法
+
+本实验基于ROS2 humble系统，以及Universal_Robot_ROS2_driver、ur_moveit的环境共同使用。
